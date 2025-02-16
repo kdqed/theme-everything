@@ -5,7 +5,7 @@ website = "https://kdqed.com"
 [colors]
 b = ["#1d2228", "#2f3741", "#4d5a6a", "#67788e"]
 
-v = ["#9c639c", "#d194d1"]
+v = ["#a177a1", "#d9a6d9"]
 i = ["#5cb9cc", "#7dd6e8"]
 b = ["#6991bf", "#8fbcef"]
 g = ["#699669", "#8cd98c"]
